@@ -1,9 +1,9 @@
-[v0.1.4](https://github.com/littleflute/a22/edit/master/README.md)
+[v0.1.5](https://github.com/littleflute/a22/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/a22/)
 
 [II](2) -> 
-<button onclick='2/7'>cd07</button>
+<button><a href="2/7">cd07</a></button>
 <button onclick='2/8'>cd08</button>
 <button onclick='2/9'>cd09</button>
 <button onclick='2/10'>cd10</button>
@@ -52,7 +52,7 @@ function fNewBtn(i)
     rHTML += i;
     rHTML += "</button>";
     return rHTML;
-}
+} 
 </script>
 
 
