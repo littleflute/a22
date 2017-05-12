@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/a22/edit/master/2/readme.md)
+[v0.0.6](https://github.com/littleflute/a22/edit/master/2/readme.md)
 
 [show this page](https://littleflute.github.io/a22/2)
 
@@ -7,7 +7,7 @@
 [cd07](7)
 [cd08](8)
 [cd09](9)
-[cd11](10)
+[cd10](10)
 [cd12](12)
 
 
