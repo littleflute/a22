@@ -1,13 +1,13 @@
-[v0.1.5](https://github.com/littleflute/a22/edit/master/README.md)
+[v0.1.6](https://github.com/littleflute/a22/edit/master/README.md)
 
 [show this page](https://littleflute.github.io/a22/)
 
 [II](2) -> 
 <button><a href="2/7">cd07</a></button>
-<button onclick='2/8'>cd08</button>
-<button onclick='2/9'>cd09</button>
-<button onclick='2/10'>cd10</button>
-<button onclick='2/12'>cd12</button>
+<button><a href="2/8">cd08</a></button>
+<button><a href="2/9">cd09</a></button>
+<button><a href="2/10">cd10</a></button>
+<button><a href="2/12">cd12</a></button> 
 
 [III](3)
 
